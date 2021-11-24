@@ -1,0 +1,22 @@
+{
+  "collapse-filter": false,
+  "search": "path:B223《波",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 3.85792009790174,
+  "lineSizeMultiplier": 2.29173789173789,
+  "collapse-forces": false,
+  "centerStrength": 0.486270810493843,
+  "repelStrength": 10,
+  "linkStrength": 0.486270810493843,
+  "linkDistance": 246,
+  "scale": 0.840521554880342,
+  "close": true
+}

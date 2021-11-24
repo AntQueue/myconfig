@@ -1,0 +1,113 @@
+{
+  "main": {
+    "id": "7f9742171dfbcfe4",
+    "type": "split",
+    "children": [
+      {
+        "id": "508575d93c19a082",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "知识体系/知识管理/Evernote.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b21534775171d488",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ad353f956e27ab8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "994d3b9e598a7581",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "10c7ec2500e5f6b8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 294.00000190734863
+  },
+  "right": {
+    "id": "191aa695d1846c10",
+    "type": "split",
+    "children": [
+      {
+        "id": "470978c2e4ddef08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee1001109f7c68fa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "知识体系/知识管理/Evernote.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "f7d7b5ae8bb78465",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "知识体系/知识管理/Evernote.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 134.22215270996094,
+    "collapsed": true
+  },
+  "active": "508575d93c19a082",
+  "lastOpenFiles": [
+    "知识体系/知识管理/Evernote.md",
+    "100一人之国/110日拱一卒/日记2021/日拱一卒：2021-11-21.md",
+    "知识体系/资源库/APK下载.md",
+    "100一人之国/120功不唐捐/1212项目/WS02ETF套利/HSI恒生指数.md",
+    "300投资明道/310股票/311A股/159920恒指ETF.md",
+    "100一人之国/110日拱一卒/日记2021/日拱一卒：2021-11-17.md",
+    "100一人之国/120功不唐捐/1212项目/L01生活/L002办理房产证.md",
+    "100一人之国/120功不唐捐/1213待办/待办事项.md",
+    "100一人之国/110日拱一卒/日记2021/日拱一卒：2021-11-16.md",
+    "100一人之国/120功不唐捐/1212项目/WS02ETF套利/标的.md"
+  ]
+}
